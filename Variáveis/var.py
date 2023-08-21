@@ -51,7 +51,7 @@ STATES = [
 
 #============================================== BOAS PRÁTICAS ============================================
 
-#Em python por convenção também devemos usar o padrão SNAKE_CASE , que por sua ver é 'desse_tipo'
+#Em python por convenção também devemos usar o padrão SNAKE_CASE , que por sua veZ é 'desse_tipo'
 
 saldo_em_conta = 1000
 estados_brasil = ['BA', 'SP']
