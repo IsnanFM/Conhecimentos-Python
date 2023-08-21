@@ -48,6 +48,7 @@ print(var_int + var_convertida)
     * <b>int -> str (str -> int)</b>
     * <b>list -> tuple (tuple -> list)</b>
 Ainda existe também <b>complex()</b>
+Não é possível, por exemplo, converter <b> str -> float </b>
 
 ## Conversão implícita
 Se temos por exemplo um <b>flutuante</b> e um <b>inteiro</b> e quisermos somar os dois não precisaríamos converter qualquer um dos, o _Pyhton_ consegue fazer essa conversão em tempo de execução.
