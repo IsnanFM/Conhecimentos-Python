@@ -39,3 +39,4 @@ print(var1,var)
 #mensagem-qualquer
 #59
 #4 14
+print(5//2)
