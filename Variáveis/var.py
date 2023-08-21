@@ -2,7 +2,7 @@
 
 #em Python não se precisa declarar o tipo de dados, como em outras linguagens, a exemplo de C/C++
 
-#Portanto podemos escolher o nome da nossa variávelque o python irá se resposabilizar de reconhecer
+#Portanto podemos escolher o nome da nossa variável que o python irá se resposabilizar de reconhecer
 #o tipo de dados inserido
 
 minha_var = 10
