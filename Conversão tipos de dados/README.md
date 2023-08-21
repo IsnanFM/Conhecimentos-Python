@@ -47,7 +47,9 @@ print(var_int + var_convertida)
     * <b>int -> float (float -> int)</b>
     * <b>int -> str (str -> int)</b>
     * <b>list -> tuple (tuple -> list)</b>
+    
 Ainda existe também <b>complex()</b>
+
 Não é possível, por exemplo, converter <b> str -> float </b>
 
 ## Conversão implícita
