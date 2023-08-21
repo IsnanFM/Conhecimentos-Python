@@ -3,6 +3,7 @@
 
 - A conversão é necessária quando, por exemplo, quisermos fazer uma operação com dois tipos de dados
 totalmente diferentes.
+
 |Tipo de dado|conversor|
 |--------------|-----------|
 |int|_int()_|
