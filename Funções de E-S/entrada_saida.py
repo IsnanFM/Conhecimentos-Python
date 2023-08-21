@@ -8,7 +8,7 @@ var1 = input("digite um valor \n")
 var = int(input("digite um valor \n")) + 10
 
 #output: "digite um valor"
-#o valor digitado no input foi "4" nas duas ocasiões, portanto o valor gravado em "var"
+#o valor digitado no input foi "4" nas duas ocasiões, portanto o valor gravado em "var" e "var1"
 
 #------------------------------------SÁIDA---------------------------------------------
 
